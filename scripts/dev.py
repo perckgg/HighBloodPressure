@@ -8,7 +8,7 @@ from pathlib import Path
 
 # Project paths
 PROJECT_ROOT = Path(__file__).parent.parent
-VENV_PATH = Path("D:/Python_Environments") / f"{PROJECT_ROOT.name}_env"
+VENV_PATH = Path("D:/Learning/App/Python_Environments") / f"{PROJECT_ROOT.name}_env"
 PYTHON_PATH = VENV_PATH / "Scripts" / "python.exe"
 UVICORN_PATH = VENV_PATH / "Scripts" / "uvicorn.exe"
 
