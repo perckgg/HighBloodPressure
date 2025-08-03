@@ -676,7 +676,7 @@ Nếu bạn gặp vấn đề hoặc có câu hỏi:
 
 - 🐛 **Bug reports**: [GitHub Issues](https://github.com/perckgg/fastapi-backend/issues)
 - 💬 **Questions**: [GitHub Discussions](https://github.com/perckgg/fastapi-backend/discussions)
-- 📧 **Email**: your-email@example.com
+- 📧 **Email**: hoangkhanghcmut@gmail.com
 
 ## 📄 License
 
